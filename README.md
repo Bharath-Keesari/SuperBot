@@ -28,6 +28,9 @@ RAG (NumPy vector store) + MCP Tool Registry + Groq LLM
   Document Search          Tool Dispatch      AI Responses
   Source Citations         Audit Logging     Intent Router
 ```
+<img width="435" height="722" alt="image" src="https://github.com/user-attachments/assets/2aad1d73-1a7a-4d4f-9c00-a7940d692972" />
+
+
 
 ## Config
 Edit `.env` — set `GROQ_API_KEY` from https://console.groq.com

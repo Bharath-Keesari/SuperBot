@@ -1,0 +1,26 @@
+Product Key,Product Type,Category,Sub Category,Description
+401,Managed Service,Network,Rack,Product Description 1
+402,Power,Space,Fiber,Product Description 2
+403,Power,Network,Rack,Product Description 3
+404,Power,Infrastructure,kW,Product Description 4
+405,Managed Service,Space,Cage,Product Description 5
+406,Cross Connect,Space,Fiber,Product Description 6
+407,Managed Service,Network,Rack,Product Description 7
+408,Managed Service,Infrastructure,Cage,Product Description 8
+409,Cross Connect,Network,kW,Product Description 9
+410,Managed Service,Network,Cage,Product Description 10
+411,Cross Connect,Space,Cage,Product Description 11
+412,Cross Connect,Infrastructure,kW,Product Description 12
+413,Cross Connect,Space,Fiber,Product Description 13
+414,Cross Connect,Space,Fiber,Product Description 14
+415,Managed Service,Space,Rack,Product Description 15
+416,Power,Network,Cabinet,Product Description 16
+417,Managed Service,Infrastructure,kW,Product Description 17
+418,Power,Space,Cage,Product Description 18
+419,Colocation,Infrastructure,Fiber,Product Description 19
+420,Power,Network,Rack,Product Description 20
+421,Cross Connect,Network,Fiber,Product Description 21
+422,Colocation,Space,Rack,Product Description 22
+423,Cross Connect,Space,Rack,Product Description 23
+424,Power,Space,Cabinet,Product Description 24
+425,Colocation,Infrastructure,Fiber,Product Description 25
